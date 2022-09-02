@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\BoogieFN\BoogieFN\bin\Debug\netcoreapp3.1\BoogieFN.exe
+C:\Users\User\source\repos\BoogieFN\BoogieFN\bin\Debug\netcoreapp3.1\BoogieFN.deps.json
+C:\Users\User\source\repos\BoogieFN\BoogieFN\bin\Debug\netcoreapp3.1\BoogieFN.runtimeconfig.json
+C:\Users\User\source\repos\BoogieFN\BoogieFN\bin\Debug\netcoreapp3.1\BoogieFN.runtimeconfig.dev.json
+C:\Users\User\source\repos\BoogieFN\BoogieFN\bin\Debug\netcoreapp3.1\BoogieFN.dll
+C:\Users\User\source\repos\BoogieFN\BoogieFN\bin\Debug\netcoreapp3.1\BoogieFN.pdb
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.Form1.resources
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.AssemblyInfo.cs
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.dll
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.pdb
+C:\Users\User\source\repos\BoogieFN\BoogieFN\obj\Debug\netcoreapp3.1\BoogieFN.genruntimeconfig.cache
